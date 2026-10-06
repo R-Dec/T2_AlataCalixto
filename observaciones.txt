@@ -1,0 +1,1 @@
+Evaluación desarrollada sin inconvenientes utilizando Git local en PowerShell e IntelliJ IDEA.

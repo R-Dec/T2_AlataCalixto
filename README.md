@@ -6,3 +6,6 @@
 
 ## Evidencia T2
 Evaluación práctica de control de versiones y flujos de trabajo con Git y GitHub completada satisfactoriamente.
+
+## Control de cambios
+Se realizaron modificaciones concurrentes en el proyecto para probar la gestion de cambios, el staging area y la recuperacion de versiones.
