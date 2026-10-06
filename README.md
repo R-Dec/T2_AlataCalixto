@@ -9,3 +9,7 @@ Evaluación práctica de control de versiones y flujos de trabajo con Git y GitH
 
 ## Control de cambios
 Se realizaron modificaciones concurrentes en el proyecto para probar la gestion de cambios, el staging area y la recuperacion de versiones.
+
+## Gestión de ramas
+- **Rama utilizada:** feature-AlataCalixto
+- **Descripción:** Creación de la clase ControlVersion_AlataCalixto.java y pruebas de desarrollo independiente antes de realizar el merge con la rama principal.
